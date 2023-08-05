@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import React from 'react';
 import { Logo, RocketGIF } from '../../utilities/PNG';
 
 const BurgerNavigation = ({ clickNavi, setBurgerCon }) => {
