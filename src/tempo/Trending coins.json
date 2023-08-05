@@ -1,0 +1,111 @@
+{
+  "coins": [
+    {
+      "item": {
+        "id": "worldcoin-wld",
+        "coin_id": 31069,
+        "name": "Worldcoin",
+        "symbol": "WLD",
+        "market_cap_rank": 153,
+        "thumb": "https://assets.coingecko.com/coins/images/31069/thumb/worldcoin.jpeg?1690182386",
+        "small": "https://assets.coingecko.com/coins/images/31069/small/worldcoin.jpeg?1690182386",
+        "large": "https://assets.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1690182386",
+        "slug": "worldcoin",
+        "price_btc": 0.00006924302532717421,
+        "score": 0
+      }
+    },
+    {
+      "item": {
+        "id": "akash-network",
+        "coin_id": 12785,
+        "name": "Akash Network",
+        "symbol": "AKT",
+        "market_cap_rank": 219,
+        "thumb": "https://assets.coingecko.com/coins/images/12785/thumb/akash-logo.png?1615447676",
+        "small": "https://assets.coingecko.com/coins/images/12785/small/akash-logo.png?1615447676",
+        "large": "https://assets.coingecko.com/coins/images/12785/large/akash-logo.png?1615447676",
+        "slug": "akash-network",
+        "price_btc": 0.000020034028143680174,
+        "score": 1
+      }
+    },
+    {
+      "item": {
+        "id": "bitcoin",
+        "coin_id": 1,
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "market_cap_rank": 1,
+        "thumb": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1547033579",
+        "small": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+        "large": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+        "slug": "bitcoin",
+        "price_btc": 1,
+        "score": 2
+      }
+    },
+    {
+      "item": {
+        "id": "unibot",
+        "coin_id": 30462,
+        "name": "Unibot",
+        "symbol": "UNIBOT",
+        "market_cap_rank": 241,
+        "thumb": "https://assets.coingecko.com/coins/images/30462/thumb/logonoline_%281%29.png?1687510315",
+        "small": "https://assets.coingecko.com/coins/images/30462/small/logonoline_%281%29.png?1687510315",
+        "large": "https://assets.coingecko.com/coins/images/30462/large/logonoline_%281%29.png?1687510315",
+        "slug": "unibot",
+        "price_btc": 0.0037407219552363833,
+        "score": 3
+      }
+    },
+    {
+      "item": {
+        "id": "dogecoin",
+        "coin_id": 5,
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "market_cap_rank": 8,
+        "thumb": "https://assets.coingecko.com/coins/images/5/thumb/dogecoin.png?1547792256",
+        "small": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png?1547792256",
+        "large": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256",
+        "slug": "dogecoin",
+        "price_btc": 0.0000026543125810869216,
+        "score": 4
+      }
+    },
+    {
+      "item": {
+        "id": "pendle",
+        "coin_id": 15069,
+        "name": "Pendle",
+        "symbol": "PENDLE",
+        "market_cap_rank": 336,
+        "thumb": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1634196276",
+        "small": "https://assets.coingecko.com/coins/images/15069/small/Pendle_Logo_Normal-03.png?1634196276",
+        "large": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1634196276",
+        "slug": "pendle",
+        "price_btc": 0.00002420854614961467,
+        "score": 5
+      }
+    },
+    {
+      "item": {
+        "id": "pepe",
+        "coin_id": 29850,
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "market_cap_rank": 77,
+        "thumb": "https://assets.coingecko.com/coins/images/29850/thumb/pepe-token.jpeg?1682922725",
+        "small": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg?1682922725",
+        "large": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725",
+        "slug": "pepe",
+        "price_btc": 4.5753990114214637e-11,
+        "score": 6
+      }
+    }
+  ],
+  "nfts": [],
+  "exchanges": []
+}
