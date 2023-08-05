@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Trading Crypto.Hunk
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![1](https://github.com/TechGitMaster/TradingCrypto.Hunk/assets/52535645/bcb2803c-ac26-4f22-a3fa-54a54ad62627)
+![2](https://github.com/TechGitMaster/TradingCrypto.Hunk/assets/52535645/114790fb-be64-4f5e-9150-a4380a2366c3)
+
 
 ## Available Scripts
 
